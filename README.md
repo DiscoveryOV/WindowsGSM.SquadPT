@@ -10,4 +10,7 @@ WindowsGSM plugin for supporting Squad Public Test server (using appid 774961).
 1. Click **[RELOAD PLUGINS]** button or restart WindowsGSM
 
 ### License
-This project is licensed under the MIT License - see the [LICENSE.md](https://github.com/1stian/WindowsGSM.DeadMatter/blob/master/LICENSE) file for details
+This project is licensed under the MIT License - see the [LICENSE.md](https://github.com/DiscoveryOV/WindowsGSM.SquadPT/blob/master/LICENSE) file for details
+
+### Note
+This project was created using https://github.com/1stian/WindowsGSM.DeadMatte
