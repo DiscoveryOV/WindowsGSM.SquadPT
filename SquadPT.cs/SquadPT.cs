@@ -17,7 +17,7 @@ namespace WindowsGSM.Plugins
             name = "Squad Public Test", // WindowsGSM.XXXX
             author = "DiscoveryOV",
             description = "WindowsGSM plugin that adds support for Squad Public Test server.",
-            version = "1.0",
+            version = "1.1",
             url = "https://github.com/DiscoveryOV/WindowsGSM.SquadPT", // Github repository link (Best practice)
             color = "#ffc40b" // Color Hex
         };
